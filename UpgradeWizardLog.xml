@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="_UpgradeWizard_Files\UpgradeWizardLog.xslt"?>
+<log>
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\Users\jrp4\Documents\Visual Studio 2012\Projects\ClassSalesOrder\ClassSalesOrder\ClassSalesOrder.vbproj" />
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\Users\jrp4\Documents\Visual Studio 2012\Projects\ClassSalesOrder\ClassSalesOrder\app.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="C:\Users\jrp4\Documents\Visual Studio 2012\Projects\ClassSalesOrder\ClassSalesOrder\app.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="C:\Users\jrp4\Documents\Visual Studio 2012\Projects\ClassSalesOrder\ClassSalesOrder\app.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="C:\Users\jrp4\Documents\Visual Studio 2012\Projects\ClassSalesOrder\ClassSalesOrder\app.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="C:\Users\jrp4\Documents\Visual Studio 2012\Projects\ClassSalesOrder\ClassSalesOrder\app.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="C:\Users\jrp4\Documents\Visual Studio 2012\Projects\ClassSalesOrder\ClassSalesOrder\app.config" />
+  <event action="Analyze" type="Success" name="app.config" path="C:\Users\jrp4\Documents\Visual Studio 2012\Projects\ClassSalesOrder\ClassSalesOrder\app.config" />
+  <event action="Analyze" type="Success" name="Resources.resx" path="C:\Users\jrp4\Documents\Visual Studio 2012\Projects\ClassSalesOrder\ClassSalesOrder\My Project\Resources.resx" />
+  <event action="Analyze" type="Success" name="Report1.resx" path="C:\Users\jrp4\Documents\Visual Studio 2012\Projects\ClassSalesOrder\ClassSalesOrder\Report1.resx" />
+  <event action="Analyze" type="Success" name="SOitems.resx" path="C:\Users\jrp4\Documents\Visual Studio 2012\Projects\ClassSalesOrder\ClassSalesOrder\SOitems.resx" />
+  <event action="Analyze" type="Success" name="ClassSalesOrder" path="C:\Users\jrp4\Documents\Visual Studio 2012\Projects\ClassSalesOrder\ClassSalesOrder\ClassSalesOrder.vbproj" />
+  <event action="Analyze" type="Success" name="ClassSalesOrder" path="C:\Users\jrp4\Documents\Visual Studio 2012\Projects\ClassSalesOrder\ClassSalesOrder.sln" />
+  <event action="Backup" type="Success" name="ClassSalesOrder" path="C:\Users\jrp4\Documents\Visual Studio 2012\Projects\ClassSalesOrder\ClassSalesOrder\ClassSalesOrder.vbproj" />
+  <event action="Upgrade" type="Success" name="Assembly References" path="C:\Users\jrp4\Documents\Visual Studio 2012\Projects\ClassSalesOrder\ClassSalesOrder\ClassSalesOrder.vbproj" />
+  <event action="Upgrade" type="Success" name="Report1.resx" path="C:\Users\jrp4\Documents\Visual Studio 2012\Projects\ClassSalesOrder\ClassSalesOrder\Report1.resx" />
+  <event action="Upgrade" type="Success" name="SOitems.resx" path="C:\Users\jrp4\Documents\Visual Studio 2012\Projects\ClassSalesOrder\ClassSalesOrder\SOitems.resx" />
+  <event action="Upgrade" type="Success" name="ClassSalesOrder" path="C:\Users\jrp4\Documents\Visual Studio 2012\Projects\ClassSalesOrder\ClassSalesOrder\ClassSalesOrder.vbproj" />
+  <event action="Upgrade" type="Success" name="ClassSalesOrder" path="C:\Users\jrp4\Documents\Visual Studio 2012\Projects\ClassSalesOrder\ClassSalesOrder.sln" />
+</log>
